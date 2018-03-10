@@ -1,9 +1,14 @@
 #everything {
     font-family: 'News Cycle', sans-serif;
-    background-image: url("assets/igor-ovsyannykov-391078-unsplash.jpg")
+    background-image: url("igor-ovsyannykov-391078-unsplash.jpg")
 }
 
 .giphy {
     float: left;
     margin: 5px 5px 5px 5px;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 100%;
 }
